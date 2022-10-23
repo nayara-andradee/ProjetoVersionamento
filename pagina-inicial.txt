@@ -3,3 +3,5 @@ fluxo de trabalho local
 trabalhar no codigo 
 git add .
 git commit -m "descriçao do commit"
+
+git log - mostrar os commit existentes no repositorio
