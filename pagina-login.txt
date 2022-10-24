@@ -1,1 +1,6 @@
 esta e a pagina de login
+
+para juntar os conteudo da develop para main 
+
+mudar para a branch de destino (main) 
+trazer conteudo para branch pretendida (develop)
